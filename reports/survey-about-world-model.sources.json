@@ -1,0 +1,154 @@
+[
+  {
+    "n": 1,
+    "id": "",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "1811.04551",
+    "url": "https://arxiv.org/abs/1811.04551",
+    "title": "Learning Latent Dynamics for Planning from Pixels",
+    "date": "2018-11-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2402.15391",
+    "url": "https://arxiv.org/abs/2402.15391",
+    "title": "Genie: Generative Interactive Environments",
+    "date": "2024-02-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2502.07825",
+    "url": "https://huggingface.co/papers/2502.07825",
+    "title": "Pre-Trained Video Generative Models as World Simulators",
+    "date": "2025-02-10",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "",
+    "url": "https://arxiv.org/html/2602.08971v1",
+    "title": "WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026W/GigaBrainChallenge/papers/Jiang_RoboWM-Bench_A_Benchmark_for_Evaluating_World_Models_in_Robotic_Manipulation_CVPRW_2026_paper.pdf",
+    "title": "RoboWM-Bench: A Benchmark for Evaluating World Models in Robotic Manipulation",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "",
+    "url": "https://proceedings.mlr.press/v267/meng25c.html",
+    "title": "Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation",
+    "date": "2025-10-06",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "",
+    "url": "https://arxiv.org/html/2510.16732v1",
+    "title": "A Comprehensive Survey on World Models for Embodied AI",
+    "date": "2025-10-19",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "",
+    "url": "https://proceedings.mlr.press/v267/kang25g.html",
+    "title": "How Far Is Video Generation from World Model: A Physical Law Perspective",
+    "date": "2025-10-06",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2504.16680",
+    "url": "https://arxiv.org/abs/2504.16680",
+    "title": "Uncertainty-Aware Robotic World Model Makes Offline Model-Based Reinforcement Learning Work on Real Robots",
+    "date": "2025-04-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "",
+    "url": "https://www.nature.com/articles/s41586-025-08744-2",
+    "title": "Mastering diverse control tasks through world models",
+    "date": "2025-04-02",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2512.11225",
+    "url": "https://arxiv.org/abs/2512.11225",
+    "title": "VFMF: World Modeling by Forecasting Vision Foundation Model Features",
+    "date": "2025-12-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "2511.09057",
+    "url": "https://huggingface.co/papers/2511.09057",
+    "title": "PAN: A World Model for General, Interactable, and Long-Horizon World Simulation",
+    "date": "2025-11-12",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2602.10102",
+    "url": "https://arxiv.org/abs/2602.10102",
+    "title": "VideoWorld 2: Learning Transferable Knowledge from Real-world Videos",
+    "date": "2026-02-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "",
+    "url": "https://world-bench.github.io/",
+    "title": "WorldBench: Benchmarking Physical Understanding of World Models by Isolating Physics Concepts",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2505.09694",
+    "url": "https://huggingface.co/papers/2505.09694",
+    "title": "EWMBench: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models",
+    "date": "2025-05-14",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "",
+    "url": "https://proceedings.mlr.press/v267/pearce25a.html",
+    "title": "Scaling Laws for Pre-training Agents and World Models",
+    "date": "2025-10-06",
+    "source": "web"
+  },
+  {
+    "n": 19,
+    "id": "",
+    "url": "https://arxiv.science/abs/2510.05865",
+    "title": "The Safety Challenge of World Models for Embodied AI Agents: A Review",
+    "date": "2025-10-07",
+    "source": "web"
+  }
+]
