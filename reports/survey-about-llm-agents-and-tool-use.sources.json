@@ -1,0 +1,170 @@
+[
+  {
+    "n": 1,
+    "id": "2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2406.05804",
+    "url": "https://arxiv.org/abs/2406.05804",
+    "title": "A Review of Prominent Paradigms for LLM-Based Agents: Tool Use (Including RAG), Planning, and Feedback Learning",
+    "date": "2024-06-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2307.16789",
+    "url": "https://arxiv.org/abs/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "2023-07-31",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2410.18447",
+    "url": "https://arxiv.org/abs/2410.18447",
+    "title": "ToolFlow: Boosting LLM Tool-Calling Through Natural and Coherent Dialogue Synthesis",
+    "date": "2024-10-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2403.07714",
+    "url": "https://arxiv.org/abs/2403.07714",
+    "title": "StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models",
+    "date": "2024-03-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2307.13854",
+    "url": "https://huggingface.co/papers/2307.13854",
+    "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+    "date": "2023-07-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "2510.04550",
+    "url": "https://huggingface.co/papers/2510.04550",
+    "title": "TRAJECT-Bench:A Trajectory-Aware Benchmark for Evaluating Agentic Tool Use",
+    "date": "2025-10-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2504.18851",
+    "url": "https://huggingface.co/papers/2504.18851",
+    "title": "When2Call: When (not) to Call Tools",
+    "date": "2025-04-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "",
+    "url": "https://arxiv.org/abs/2406.13352",
+    "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "",
+    "url": "https://arxiv.org/abs/2403.02691",
+    "title": "InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents",
+    "date": "2024-08-04",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/5750f91d8fb9d5c02bd8ad2c3b44456b-Paper-Conference.pdf",
+    "title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "",
+    "url": "http://arxiv.org/abs/2503.21460",
+    "title": "Large Language Model Agent: A Survey on Methodology, Applications and Challenges",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2304.03442",
+    "url": "https://arxiv.org/abs/2304.03442",
+    "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+    "date": "2023-04-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "2305.15334",
+    "url": "https://arxiv.org/abs/2305.15334",
+    "title": "Gorilla: Large Language Model Connected with Massive APIs",
+    "date": "2023-05-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2405.16533",
+    "url": "https://arxiv.org/abs/2405.16533",
+    "title": "Tool Learning in the Wild: Empowering Language Models as Automatic Tool Agents",
+    "date": "2024-05-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2502.00032",
+    "url": "https://arxiv.org/abs/2502.00032",
+    "title": "Querying Databases with Function Calling",
+    "date": "2025-01-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "2308.03688",
+    "url": "https://huggingface.co/papers/2308.03688",
+    "title": "AgentBench: Evaluating LLMs as Agents",
+    "date": "2023-08-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2504.08942",
+    "url": "https://arxiv.org/abs/2504.08942",
+    "title": "AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories",
+    "date": "2025-04-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/7274ed909a312d4d869cc328ad1c5f04-Paper-Conference.pdf",
+    "title": "IDENTIFYING THE RISKS OF AGENTS WITH AN LM-EMULATED SANDBOX",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 21,
+    "id": "",
+    "url": "https://genai.owasp.org/llmrisk/llm062025-excessive-agency/",
+    "title": "LLM06:2025 Excessive Agency - OWASP Gen AI Security Project",
+    "date": "",
+    "source": "web"
+  }
+]

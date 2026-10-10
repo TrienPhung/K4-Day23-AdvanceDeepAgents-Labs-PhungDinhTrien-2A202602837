@@ -1,0 +1,170 @@
+[
+  {
+    "n": 1,
+    "id": "2203.02155",
+    "url": "https://arxiv.org/abs/2203.02155",
+    "title": "Training language models to follow instructions with human feedback",
+    "date": "2022-03-04",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2305.20050",
+    "url": "https://arxiv.org/abs/2305.20050",
+    "title": "Let’s Verify Step by Step",
+    "date": "2023-05-31",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2402.03300",
+    "url": "https://huggingface.co/papers/2402.03300",
+    "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+    "date": "2024-02-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2501.12948",
+    "url": "https://huggingface.co/papers/2501.12948",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "2025-01-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "",
+    "url": "https://raw.githubusercontent.com/deepseek-ai/DeepSeek-R1/main/DeepSeek_R1.pdf",
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2504.15275",
+    "url": "https://arxiv.org/abs/2504.15275",
+    "title": "Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning",
+    "date": "2025-04-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "",
+    "url": "https://openai.com/index/learning-to-reason-with-llms/",
+    "title": "Learning to reason with LLMs",
+    "date": "2024-09-12",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2403.07974",
+    "url": "https://arxiv.org/abs/2403.07974",
+    "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2311.12022",
+    "url": "https://arxiv.org/abs/2311.12022",
+    "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "",
+    "url": "https://www.nature.com/articles/s41591-025-03727-2",
+    "title": "Benchmark evaluation of DeepSeek large language models in clinical decision-making",
+    "date": "2025-04-23",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2505.21493",
+    "url": "https://arxiv.org/abs/2505.21493",
+    "title": "Reinforcing General Reasoning without Verifiers",
+    "date": "2025-05-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2505.15034",
+    "url": "https://arxiv.org/abs/2505.15034",
+    "title": "RL Tango: Reinforcing Generator and Verifier Together for Language Reasoning",
+    "date": "2025-05-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2510.27044",
+    "url": "https://huggingface.co/papers/2510.27044",
+    "title": "Limits of Generalization in RLVR: Two Case Studies in Mathematical Reasoning",
+    "date": "2025-10-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2502.21321",
+    "url": "https://arxiv.org/abs/2502.21321",
+    "title": "LLM Post-Training: A Deep Dive into Reasoning Large Language Models",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2304.05302",
+    "url": "https://arxiv.org/abs/2304.05302",
+    "title": "RRHF: Rank Responses to Align Language Models with Human Feedback without tears",
+    "date": "2023-04-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2507.12507",
+    "url": "https://huggingface.co/papers/2507.12507",
+    "title": "Scaling Up RL: Unlocking Diverse Reasoning in LLMs via Prolonged Training",
+    "date": "2025-07-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2505.02018",
+    "url": "https://huggingface.co/papers/2505.02018",
+    "title": "R-Bench: Graduate-level Multi-disciplinary Benchmarks for LLM & MLLM Complex Reasoning Evaluation",
+    "date": "2025-05-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 18,
+    "id": "2508.05613",
+    "url": "https://huggingface.co/papers/2508.05613",
+    "title": "Cooper: Co-Optimizing Policy and Reward Models in Reinforcement Learning for Large Language Models",
+    "date": "2025-08-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2507.16806",
+    "url": "https://huggingface.co/papers/2507.16806",
+    "title": "Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty",
+    "date": "2025-07-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 20,
+    "id": "2506.07976",
+    "url": "https://arxiv.org/abs/2506.07976",
+    "title": "Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction",
+    "date": "2025-06-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "2509.01321",
+    "url": "https://huggingface.co/papers/2509.01321",
+    "title": "Towards High Data Efficiency in Reinforcement Learning with Verifiable Reward",
+    "date": "2025-09-01",
+    "source": "hf-search"
+  }
+]

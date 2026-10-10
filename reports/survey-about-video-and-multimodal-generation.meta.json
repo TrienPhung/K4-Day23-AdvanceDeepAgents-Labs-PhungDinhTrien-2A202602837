@@ -1,0 +1,23 @@
+{
+  "topic": "survey about video and multimodal generation",
+  "model": "openai:gpt-6-luna",
+  "elapsed_s": 215.6,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "write_todos": 5,
+    "task": 5,
+    "read_file": 6,
+    "write_file": 2,
+    "execute": 3
+  },
+  "tokens": {
+    "input": 176700,
+    "output": 6471
+  },
+  "n_sources": 17,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

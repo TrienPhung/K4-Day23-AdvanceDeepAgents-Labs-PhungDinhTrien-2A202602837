@@ -1,0 +1,138 @@
+[
+  {
+    "n": 1,
+    "id": "2104.10157",
+    "url": "https://arxiv.org/abs/2104.10157",
+    "title": "VideoGPT: Video Generation using VQ-VAE and Transformers",
+    "date": "2021-04-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2204.03458",
+    "url": "https://arxiv.org/abs/2204.03458",
+    "title": "Video Diffusion Models",
+    "date": "2022-04-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "",
+    "url": "https://dl.acm.org/doi/full/10.1145/3696415",
+    "title": "A Survey on Video Diffusion Models",
+    "date": "2024-11-07",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2402.03040",
+    "url": "https://huggingface.co/papers/2402.03040",
+    "title": "InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions",
+    "date": "2024-02-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2505.04512",
+    "url": "https://huggingface.co/papers/2505.04512",
+    "title": "HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation",
+    "date": "2025-05-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2412.02700",
+    "url": "https://huggingface.co/papers/2412.02700",
+    "title": "Motion Prompting: Controlling Video Generation with Motion Trajectories",
+    "date": "2024-12-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "",
+    "url": "https://openaccess.thecvf.com/content/ICCV2025/html/Haji-Ali_AV-Link_Temporally-Aligned_Diffusion_Features_for_Cross-Modal_Audio-Video_Generation_ICCV_2025_paper.html",
+    "title": "AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "",
+    "url": "https://walt-video-diffusion.github.io/",
+    "title": "Photorealistic Video Generation with Diffusion Models",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2503.20314",
+    "url": "https://arxiv.org/abs/2503.20314",
+    "title": "Wan: Open and Advanced Large-Scale Video Generative Models",
+    "date": "2025-04-19",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2411.13503",
+    "url": "https://arxiv.org/abs/2411.13503",
+    "title": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
+    "date": "2024-11-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2503.21755",
+    "url": "https://huggingface.co/papers/2503.21755",
+    "title": "VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness",
+    "date": "2025-03-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2505.20292",
+    "url": "https://huggingface.co/papers/2505.20292",
+    "title": "OpenS2V-Nexus: A Detailed Benchmark and Million-Scale Dataset for Subject-to-Video Generation",
+    "date": "2025-05-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2505.11842",
+    "url": "https://arxiv.org/abs/2505.11842",
+    "title": "Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs",
+    "date": "2025-05-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 14,
+    "id": "",
+    "url": "https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Video-Guided_Foley_Sound_Generation_with_Multimodal_Controls_CVPR_2025_paper.html",
+    "title": "Video-Guided Foley Sound Generation with Multimodal Controls",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/fceae9d27e68e183d71aaa88030f52ee-Abstract-Conference.html",
+    "title": "Aligning What Matters: Masked Latent Adaptation for Text-to-Audio-Video Generation",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2411.04709",
+    "url": "https://arxiv.org/abs/2411.04709",
+    "title": "TIP-I2V: A Million-Scale Real Text and Image Prompt Dataset for Image-to-Video Generation",
+    "date": "2024-11-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "2407.05965",
+    "url": "https://huggingface.co/papers/2407.05965",
+    "title": "T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models",
+    "date": "2024-07-08",
+    "source": "hf-search"
+  }
+]
